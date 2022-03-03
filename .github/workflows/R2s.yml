@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt-imwrt-21.02-R2s
+name: Build imwrt-21.02-R2s
 
 on:
   repository_dispatch:
